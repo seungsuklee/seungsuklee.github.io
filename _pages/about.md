@@ -3,9 +3,6 @@ layout: single
 permalink: /
 title: "Seung Suk (Josh) Lee"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a postdoctoral researcher at McGill University.
