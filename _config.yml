@@ -23,7 +23,7 @@ repository               : "seungsuklee/seungsuklee.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Seung Suk (Josh) Lee"
   pronouns         : "He/Him"  
   bio              : "Postdoctoral researcher"
