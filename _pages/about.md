@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Seung Suk (Josh) Lee"
 author_profile: true
