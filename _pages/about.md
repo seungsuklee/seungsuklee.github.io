@@ -11,6 +11,7 @@ I work with [Morgan Sonderegger](https://people.linguistics.mcgill.ca/~morgan/) 
 My research investigates how categorical linguistic structure is learned from gradient acoustic input. I focus on the interaction between segmental realization and prosodic structure, and on how learners infer this interdependency from the speech signal. My work integrates phonological theory, speech perception, and quantitative modeling. 
 
 My name is pronounced 이승석 [i.sɨŋ.sɔk], but I also go by Josh (since 2007). 
+(If you're curious why it's /i/, not /li/, you can read [this Wikipedia page]("https://en.wikipedia.org/wiki/Lee_(Korean_surname)").) 
 
 Research interests
 ======
