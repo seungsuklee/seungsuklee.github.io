@@ -15,7 +15,8 @@ author_profile: true
 
 ## Dissertation
 - **Lee, S. S.** 2025. Simultaneous encoding and decoding of laryngeal contrasts and prosodic structure in Seoul Korean. Doctoral Dissertation. University of Massachusetts, Amherst.
-<a class="button" href="https://scholarworks.umass.edu/entities/publication/41642f97-305c-4742-906d-5a40abcc0eb3" target="_blank">PDF</a>
+<a class="button" href="https://scholarworks.umass.edu/entities/publication/41642f97-305c-4742-906d-5a40abcc0eb3" target="_blank">Web</a>
+<a class="button" href="https://seungsuklee.github.io/files/SeungSukLee_Dissertation_2025.pdf" target="_blank">PDF</a>
 
 ## Conference Proceedings
 
