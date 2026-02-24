@@ -11,7 +11,7 @@ author_profile: true
 
 - **Lee, S. S.**, Pater, J., Prickett, B. Under revision. *Representing and learning stress in a MaxEnt framework*.
 
-- Darcy, I., Rocca, B., Hancock, Z., and *Lee, S. S*. 2020. *Do individual differences in stress perception and in selective attention relate to improvements in spontaneous speech?* Fremdsprachen Lehren und Lernen (FLuL), 49(2): 28-45.
+- Darcy, I., Rocca, B., Hancock, Z., and **Lee, S. S**. 2020. *Do individual differences in stress perception and in selective attention relate to improvements in spontaneous speech?* Fremdsprachen Lehren und Lernen (FLuL), 49(2): 28-45.
 
 ## Dissertation
 - **Lee, S. S.** 2025. Simultaneous encoding and decoding of laryngeal contrasts and prosodic structure in Seoul Korean. Doctoral Dissertation. University of Massachusetts, Amherst.
