@@ -34,7 +34,7 @@ author_profile: true
 
 ## Oral presentations
 
-- Yu, K. M., Kaiser, C., Farinella, A., and **Lee, S. S.** 2025. "Cross-linguistic evidence for prosodic domains: are tones "different"?". Exploring Boundaries. UiT The Arctic University of Norway, Tromsø, Norway.
+- Yu, K. M., Kaiser, C., Farinella, A., and **Lee, S. S.** 2025. *Cross-linguistic evidence for prosodic domains: are tones "different"?*. Exploring Boundaries. UiT The Arctic University of Norway, Tromsø, Norway.
 
 - **Lee, S. S.** 2024. *Predictability and phonological context interact in conditioning the acoustic reduction of Seoul Korean lenis obstruents*. CorpusPhon. Seoul, South Korea.
 
