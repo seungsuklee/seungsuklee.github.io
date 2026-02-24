@@ -38,7 +38,7 @@ author_profile: true
 
 - **Lee, S. S.** 2024. *Modeling the variability of the obstruent lenition in Seoul Korean: prosody, phonological context, and predictability*. PhphoNE. Amherst, MA.
 
-- *Hughes, C, Lee, S. S., Farinella, A., and Yu, K. M. 2023. *Phonetic
+- Hughes, C., **Lee, S. S.**, Farinella, A., and Yu, K. M. 2023. *Phonetic
 implementation of phonologically different high tone plateaus in Luganda*. International Congress of Phonetic Sciences, Prague, Czech Republic.
 
 ## Posters
