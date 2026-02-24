@@ -24,5 +24,5 @@ Recent Highlights
 ======
 - Feb 09 2026: I became Theo Tae-Oh Lee's dad. Welcome to the world, Theo! I love you. 
 - Sep 2025: I moved to Montréal to work with Morgan Sonderegger and Meghan Clayards at [McGill University]("https://www.mcgill.ca/linguistics/"). I will be at McGill until Jul 2027. 
-- Sep 2025: I graduated from the University of Massachusetts Amherst. My dissertation is titled [Simultaneous encoding and decoding of laryngeal contrasts and prosodic structure in Seoul Korean]("http://scholarworks.umass.edu/entities/publication/41642f97-305c-4742-906d-5a40abcc0eb3"), supervised by [Kristine Yu]("https://www.krisyu.org/"), [John Kingston]("https://websites.umass.edu/jkingstn/"), and [Mara Breen]("https://sites.google.com/mtholyoke.edu/mbreen/").
+- Sep 2025: I graduated from [the University of Massachusetts Amherst]("https://www.umass.edu/linguistics/"). My dissertation is titled [Simultaneous encoding and decoding of laryngeal contrasts and prosodic structure in Seoul Korean]("http://scholarworks.umass.edu/entities/publication/41642f97-305c-4742-906d-5a40abcc0eb3"), supervised by [Kristine Yu]("https://www.krisyu.org/"), [John Kingston]("https://websites.umass.edu/jkingstn/"), and [Mara Breen]("https://sites.google.com/mtholyoke.edu/mbreen/").
 
