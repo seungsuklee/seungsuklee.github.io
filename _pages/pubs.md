@@ -9,7 +9,7 @@ author_profile: true
 
 - **Lee, S. S.** Under revision. *Lenition of lenis obstruents in Seoul Korean spontaneous speech*.  
 <a class="btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5106536" target="_blank">Web</a>
-<a class="btn" href="https://osf.io/ukh6d/overview?view_only=d9bda726aebe4512830c6996f2ae4cae" target="_blank">Code</a>
+<a class="btn" href="https://osf.io/ukh6d/overview?view_only=d9bda726aebe4512830c6996f2ae4cae" target="_blank">OSF</a>
 
 - **Lee, S. S.**, Pater, J., Prickett, B. Under revision. *Representing and Learning Stress: A MaxEnt Framework for Comparing Learning Across Grammatical Theories*.  
 <a class="btn" href="https://ling.auf.net/lingbuzz/008651" target="_blank">Web</a>
@@ -33,6 +33,7 @@ author_profile: true
 
 - Hughes, C., **Lee, S. S.**, Farinella, A., and Yu, K. M. 2023. *Phonetic implementation of phonologically different high tone plateaus in Luganda*. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 1985–1989). Guarant International.  
 <a class="btn" href="https://seungsuklee.github.io/files/hughesETAL23_luganda_icphs.pdf" target="_blank">PDF</a>
+<a class="btn" href="https://osf.io/p4gj5/" target="_blank">OSF</a>
 
 - **Lee, S. S.**, Hughes, C., Farinella, A., and Pater, J. 2023. *Learning Stress with Feet and Grids: Annual Meeting on Phonology*. In Noah Elkins, Bruce Hayes, Jinyoung Jo, and Jian-Leat Siah (eds.), Supplemental Proceedings of the 2022 Annual Meeting on Phonology. Washington, DC: Linguistic Society of America.  
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Hughes, Farinella, Pater_2023_AMP.pdf" target="_blank">PDF</a>
