@@ -26,6 +26,7 @@ author_profile: true
 ## Conference Proceedings
 
 - **Lee, S. S.**, Pater, J., Prickett, B. 2025. *Representing and learning stress in a MaxEnt framework*. Supplemental Proceedings of the 2024 Annual Meeting on Phonology. Washington, DC: Linguistic Society of America.  
+<a class="btn" href="https://openpublishing.library.umass.edu/amphonology/article/id/3026/" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Pater, Prickett_2025_AMP.pdf" target="_blank">PDF</a>
 
 - **Lee, S. S.** 2023. *Detecting Accentual Phrase boundaries in Seoul Korean using tonal and segmental cues*. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 1681–1685). Guarant International.  
@@ -36,6 +37,7 @@ author_profile: true
 <a class="btn" href="https://osf.io/p4gj5/" target="_blank">OSF</a>
 
 - **Lee, S. S.**, Hughes, C., Farinella, A., and Pater, J. 2023. *Learning Stress with Feet and Grids: Annual Meeting on Phonology*. In Noah Elkins, Bruce Hayes, Jinyoung Jo, and Jian-Leat Siah (eds.), Supplemental Proceedings of the 2022 Annual Meeting on Phonology. Washington, DC: Linguistic Society of America.  
+<a class="btn" href="https://journals.linguisticsociety.org/proceedings/index.php/amphonology/article/view/5441" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Hughes, Farinella, Pater_2023_AMP.pdf" target="_blank">PDF</a>
 
 ## Editorial reviewed article
