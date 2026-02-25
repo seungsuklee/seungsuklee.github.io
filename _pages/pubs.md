@@ -41,6 +41,7 @@ author_profile: true
 
 - **Lee, S. S.** and Berkson, K. 2019. *Speech-rate effects in a 3-category language: Evidence from Hakha Chin*. Indiana Working Papers in South Asian Languages and Cultures, 1(1).
 <a class="btn" href="https://scholarworks.iu.edu/journals/index.php/iwpsalc/article/view/27453" target="_blank">Web</a>
+<a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Berkson_2019_IWPSALC.pdf" target="_blank">PDF</a>
 
 ## Oral presentations
 
