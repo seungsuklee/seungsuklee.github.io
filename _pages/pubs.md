@@ -12,7 +12,7 @@ author_profile: true
 - **Lee, S. S.**, Pater, J., Prickett, B. Under revision. *Representing and learning stress in a MaxEnt framework*.
 
 - Darcy, I., Rocca, B., Hancock, Z., and **Lee, S. S**. 2020. *Do individual differences in stress perception and in selective attention relate to improvements in spontaneous speech?* Fremdsprachen Lehren und Lernen (FLuL), 49(2): 28-45.  
-<a class="btn" href="https://elibrary.narr.digital/xibrary/start.xav?zeitschriftid=flul#/text/flul492%2Fflul4920028?_ts=1771984989876" target="_blank">Web</a>
+<a class="btn" href="doi.org/10.2357/FLuL-2020-0017" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/DarcyEtAl_2020_FLuL.pdf" target="_blank">PDF</a>
 
 
