@@ -47,6 +47,7 @@ author_profile: true
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Berkson_2019_IWPSALC.pdf" target="_blank">PDF</a>
 
 ## Oral presentations
+
 - **Lee, S. S.** and Sonderegger, M. 2026. *Cross-linguistic word-medial stop lenition: A functional PCA approach*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada.
 
 - Yu, K. M., Kaiser, C., Farinella, A., and **Lee, S. S.** 2025. *Cross-linguistic evidence for prosodic domains: are tones "different"?*. Exploring Boundaries. UiT The Arctic University of Norway, Tromsø, Norway.  
@@ -64,7 +65,7 @@ implementation of phonologically different high tone plateaus in Luganda*. Inter
 
 ## Posters
 
-- Byun, H. and **Lee, S.S.**. 2026. *The causal relationship between vowel devoicing and duration in Japanese and Korean*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada. June 26-28, 2026.
+- Byun, H. and **Lee, S. S.**. 2026. *The causal relationship between vowel devoicing and duration in Japanese and Korean*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada. June 26-28, 2026.
 
 - **Lee, S. S.**, Pater, J, and Brandon P. 2024. *Representing and learning stress in a MaxEnt framework*. Annual Meeting on Phonology, Rutgers University, NJ.  
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Pater, Prickett_AMP2024_poster_ver103024.pdf" target="_blank">Poster</a>
