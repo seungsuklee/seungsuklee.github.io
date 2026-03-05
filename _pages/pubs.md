@@ -48,7 +48,7 @@ author_profile: true
 
 ## Oral presentations
 
-- **Lee, S. S.** and Sonderegger, M. 2026. *Cross-linguistic word-medial stop lenition: A functional PCA approach*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada.
+- **Lee, S. S.** and Sonderegger, M. 2026. *Cross-linguistic word-medial stop lenition: A functional PCA approach*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada. June 26-28.
 
 - Yu, K. M., Kaiser, C., Farinella, A., and **Lee, S. S.** 2025. *Cross-linguistic evidence for prosodic domains: are tones "different"?*. Exploring Boundaries. UiT The Arctic University of Norway, Tromsø, Norway.  
 <a class="btn" href="https://seungsuklee.github.io/files/YuKaiserFarinellaLee25_Exploring_Boundaries_Tromso.pdf" target="_blank">Slides</a>
