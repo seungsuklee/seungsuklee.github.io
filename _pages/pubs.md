@@ -65,7 +65,7 @@ implementation of phonologically different high tone plateaus in Luganda*. Inter
 
 ## Posters
 
-- Byun, H. and **Lee, S. S.** 2026. *The causal relationship between vowel devoicing and duration in Japanese and Korean*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada. June 26-28, 2026.
+- Byun, H. and **Lee, S. S.** 2026. *The causal relationship between vowel devoicing and duration in Japanese and Korean*. Laboratory Phonology 20. UQAM, Montréal, Québec, Canada. June 26-28.
 
 - **Lee, S. S.**, Pater, J, and Brandon P. 2024. *Representing and learning stress in a MaxEnt framework*. Annual Meeting on Phonology, Rutgers University, NJ.  
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Pater, Prickett_AMP2024_poster_ver103024.pdf" target="_blank">Poster</a>
