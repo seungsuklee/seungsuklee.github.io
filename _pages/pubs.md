@@ -30,9 +30,11 @@ author_profile: true
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Pater, Prickett_2025_AMP.pdf" target="_blank">PDF</a>
 
 - **Lee, S. S.** 2023. *Detecting Accentual Phrase boundaries in Seoul Korean using tonal and segmental cues*. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 1681–1685). Guarant International.  
+<a class="btn" href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1079.pdf" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee_2023_ICPhS.pdf" target="_blank">PDF</a>
 
 - Hughes, C., **Lee, S. S.**, Farinella, A., and Yu, K. M. 2023. *Phonetic implementation of phonologically different high tone plateaus in Luganda*. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 1985–1989). Guarant International.  
+<a class="btn" href="https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/1083.pdf" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/hughesETAL23_luganda_icphs.pdf" target="_blank">PDF</a>
 <a class="btn" href="https://osf.io/p4gj5/" target="_blank">OSF</a>
 
