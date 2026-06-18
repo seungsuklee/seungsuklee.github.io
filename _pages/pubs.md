@@ -24,8 +24,10 @@ author_profile: true
 <a class="btn" href="https://seungsuklee.github.io/files/SeungSukLee_Dissertation_2025.pdf" target="_blank">PDF</a>
 
 ## Conference Proceedings
-
-- **Lee, S. S.**, Pater, J., Prickett, B. 2025. *Representing and learning stress in a MaxEnt framework*. Supplemental Proceedings of the 2024 Annual Meeting on Phonology. Washington, DC: Linguistic Society of America.  
+- **Lee, S. S.**, Sonderegger, M., and Clayards, M. 2026. *Cross-linguistic word-medial stop lenition: A Functional PCA approach*. To appear in Proceedings of Interspeech 2026. ISCA.
+<a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Sonderegger, Clayards_2026_Interspeech.pdf" target="_blank">PDF</a>
+  
+- **Lee, S. S.**, Pater, J., and Prickett, B. 2025. *Representing and learning stress in a MaxEnt framework*. Supplemental Proceedings of the 2024 Annual Meeting on Phonology. Washington, DC: Linguistic Society of America.  
 <a class="btn" href="https://openpublishing.library.umass.edu/amphonology/article/id/3026/" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Pater, Prickett_2025_AMP.pdf" target="_blank">PDF</a>
 
