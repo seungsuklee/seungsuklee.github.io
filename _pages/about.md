@@ -25,8 +25,8 @@ Recent Highlights
 ======
 - September 2026: I will be presenting my work with Morgan Sonderegger and Meghan Clayards at Interspeech 2026 (Sydney, Australia). It is a developed version of my LabPhon oral presentation. A preprint is available [here](https://seungsuklee.github.io/files/SS%20Lee,%20Sonderegger,%20Clayards_2026_Interspeech.pdf).
 - June 2026: I am presenting two projects at LabPhon20:
-- ["Cross-linguistic word-medial stop lenition: A functional PCA approach."](https://seungsuklee.github.io/files/SS%20Lee,%20Sonderegger_2026_LabPhon20.pdf) (a collaboration with Morgan Sonderegger).
-- ["The causal relationship between vowel devoicing and duration in Japanese and Korean"](https://seungsuklee.github.io/files/Byun,%20SS%20Lee_2026_LabPhon20.pdf) (a collaboration with [Hanyoung Byun](https://hbyun.sites.ucsc.edu/)).
+  - ["Cross-linguistic word-medial stop lenition: A functional PCA approach."](https://seungsuklee.github.io/files/SS%20Lee,%20Sonderegger,%20Clayards_2026_LabPhon20.pptx) (a collaboration with Morgan Sonderegger).
+  - ["The causal relationship between vowel devoicing and duration in Japanese and Korean"](https://seungsuklee.github.io/files/Byun,%20SS%20Lee_2026_LabPhon20.pdf) (a collaboration with [Hanyoung Byun](https://hbyun.sites.ucsc.edu/)).
 - Feb 09 2026: I became Theo Tae-Oh Lee's dad. Welcome to the world, Theo! I love you. 
 - Sep 2025: I moved to Montréal to work with Morgan Sonderegger and Meghan Clayards at [McGill University](https://www.mcgill.ca/linguistics/). I will be at McGill until Jul 2027. 
 - Sep 2025: I graduated from [University of Massachusetts Amherst](https://www.umass.edu/linguistics/). My dissertation is titled [Simultaneous encoding and decoding of laryngeal contrasts and prosodic structure in Seoul Korean](http://scholarworks.umass.edu/entities/publication/41642f97-305c-4742-906d-5a40abcc0eb3), supervised by [Kristine Yu](https://www.krisyu.org/), [John Kingston](https://websites.umass.edu/jkingstn/), and [Mara Breen](https://sites.google.com/mtholyoke.edu/mbreen/).
