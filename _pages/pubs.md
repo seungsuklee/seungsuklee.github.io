@@ -25,6 +25,7 @@ author_profile: true
 
 ## Conference Proceedings
 - **Lee, S. S.**, Sonderegger, M., and Clayards, M. 2026. *Cross-linguistic word-medial stop lenition: A Functional PCA approach*. To appear in Proceedings of Interspeech 2026. ISCA.
+<a class="btn" href="https://www.isca-archive.org/interspeech_2026/lee26p_interspeech.html" target="_blank">Web</a>
 <a class="btn" href="https://seungsuklee.github.io/files/SS Lee, Sonderegger, Clayards_2026_Interspeech.pdf" target="_blank">PDF</a>
 <a class="btn" href="https://osf.io/ce65h/" target="_blank">OSF</a>
   
